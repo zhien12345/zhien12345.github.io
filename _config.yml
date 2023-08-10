@@ -103,5 +103,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/zhien12345/zhien12345.github.io # 用https或者ssh均可
+  repo: git@github.com:zhien12345/zhien12345.github.io.git
   branch: master
