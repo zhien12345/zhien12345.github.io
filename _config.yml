@@ -103,5 +103,5 @@ theme: hexo-theme-fluid-master
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:zhien12345/zhien12345.github.io.git
+  repo: https://github.com/zhien12345/zhien12345.github.io.git
   branch: master
